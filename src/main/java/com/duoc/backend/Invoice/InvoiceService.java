@@ -1,4 +1,4 @@
-﻿package com.duoc.backend.Invoice;
+package com.duoc.backend.Invoice;
 
 import com.duoc.backend.Care.Care;
 import com.duoc.backend.Care.CareRepository;
